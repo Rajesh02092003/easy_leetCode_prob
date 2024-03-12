@@ -14,3 +14,4 @@ class Solution:
     return maxprofit 
 obj=Solution()
 print(obj.maxProfit([2,4,1]))
+#hi this rajesh frd of guru
